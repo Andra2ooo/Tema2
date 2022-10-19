@@ -25,7 +25,3 @@ recognition.onend = onend;
 recognition.onsoundend = onend;
 recognition.onspeechend = onend;
 recognition.onresult = on_results;
-Footer
-© 2022 GitHub, Inc.
-Footer navigation
-Terms
